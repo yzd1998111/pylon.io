@@ -1,0 +1,3 @@
+defaultName=None
+defaultColor=None
+first=False
